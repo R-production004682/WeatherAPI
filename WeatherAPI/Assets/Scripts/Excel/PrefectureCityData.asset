@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66b4da9e48e7583479317d436f72d475, type: 3}
+  m_Name: PrefectureCityData
+  m_EditorClassIdentifier: 
+  PrefectureList:
+  - IndexID: 1
+    prefectureName: "\u5317\u6D77\u9053"
+    prefectureCityID: 2128295
+  - IndexID: 2
+    prefectureName: "\u9752\u68EE\u770C"
+    prefectureCityID: 2130658
+  - IndexID: 3
+    prefectureName: "\u5CA9\u624B\u770C"
+    prefectureCityID: 2111834
+  - IndexID: 4
+    prefectureName: "\u5BAE\u57CE\u770C"
+    prefectureCityID: 2111149
+  - IndexID: 5
+    prefectureName: "\u79CB\u7530\u770C"
+    prefectureCityID: 2113126
+  - IndexID: 6
+    prefectureName: "\u5C71\u5F62\u770C"
+    prefectureCityID: 2110556
+  - IndexID: 7
+    prefectureName: "\u798F\u5CF6\u770C"
+    prefectureCityID: 2112923
+  - IndexID: 8
+    prefectureName: "\u8328\u57CE\u770C"
+    prefectureCityID: 2111901
+  - IndexID: 9
+    prefectureName: "\u6803\u6728\u770C"
+    prefectureCityID: 1849053
+  - IndexID: 10
+    prefectureName: "\u7FA4\u99AC\u770C"
+    prefectureCityID: 1587243
+  - IndexID: 11
+    prefectureName: "\u57FC\u7389\u770C"
+    prefectureCityID: 6940394
+  - IndexID: 12
+    prefectureName: "\u5343\u8449\u770C"
+    prefectureCityID: 2113015
+  - IndexID: 13
+    prefectureName: "\u795E\u5948\u5DDD\u770C"
+    prefectureCityID: 1848354
+  - IndexID: 14
+    prefectureName: "\u6771\u4EAC\u90FD"
+    prefectureCityID: 1850147
+  - IndexID: 15
+    prefectureName: "\u65B0\u6F5F\u770C"
+    prefectureCityID: 1855431
+  - IndexID: 16
+    prefectureName: "\u5BCC\u5C71\u770C"
+    prefectureCityID: 1849876
+  - IndexID: 17
+    prefectureName: "\u9577\u91CE\u770C"
+    prefectureCityID: 1856210
+  - IndexID: 18
+    prefectureName: "\u5C71\u68A8\u770C"
+    prefectureCityID: 1859100
+  - IndexID: 19
+    prefectureName: "\u9759\u5CA1\u770C"
+    prefectureCityID: 1851717
+  - IndexID: 20
+    prefectureName: "\u611B\u77E5\u770C"
+    prefectureCityID: 1856057
+  - IndexID: 21
+    prefectureName: "\u5C90\u961C\u770C"
+    prefectureCityID: 1863641
+  - IndexID: 22
+    prefectureName: "\u798F\u4E95\u770C"
+    prefectureCityID: 1863983
+  - IndexID: 23
+    prefectureName: "\u77F3\u5DDD\u770C"
+    prefectureCityID: 1860243
+  - IndexID: 24
+    prefectureName: "\u4EAC\u90FD\u5E9C"
+    prefectureCityID: 1857910
+  - IndexID: 25
+    prefectureName: "\u6ECB\u8CC0\u770C"
+    prefectureCityID: 1853574
+  - IndexID: 26
+    prefectureName: "\u5948\u826F\u770C"
+    prefectureCityID: 1855608
+  - IndexID: 27
+    prefectureName: "\u5927\u962A\u5E9C"
+    prefectureCityID: 1853909
+  - IndexID: 28
+    prefectureName: "\u5175\u5EAB\u770C"
+    prefectureCityID: 1859171
+  - IndexID: 29
+    prefectureName: "\u548C\u6B4C\u5C71\u770C"
+    prefectureCityID: 1926004
+  - IndexID: 30
+    prefectureName: "\u4E09\u91CD\u770C"
+    prefectureCityID: 1849796
+  - IndexID: 31
+    prefectureName: "\u9CE5\u53D6\u770C"
+    prefectureCityID: 1849892
+  - IndexID: 32
+    prefectureName: "\u5CF6\u6839\u770C"
+    prefectureCityID: 1857550
+  - IndexID: 33
+    prefectureName: "\u5CA1\u5C71\u770C"
+    prefectureCityID: 1854383
+  - IndexID: 34
+    prefectureName: "\u5E83\u5CF6\u770C"
+    prefectureCityID: 1862415
+  - IndexID: 35
+    prefectureName: "\u5C71\u53E3\u770C"
+    prefectureCityID: 1848689
+  - IndexID: 36
+    prefectureName: "\u9999\u5DDD\u770C"
+    prefectureCityID: 1851100
+  - IndexID: 37
+    prefectureName: "\u5FB3\u5CF6\u770C"
+    prefectureCityID: 1850157
+  - IndexID: 38
+    prefectureName: "\u611B\u5A9B\u770C"
+    prefectureCityID: 1864226
+  - IndexID: 39
+    prefectureName: "\u9AD8\u77E5\u770C"
+    prefectureCityID: 1860827
+  - IndexID: 40
+    prefectureName: "\u798F\u5CA1\u770C"
+    prefectureCityID: 1863967
+  - IndexID: 41
+    prefectureName: "\u5927\u5206\u770C"
+    prefectureCityID: 1854484
+  - IndexID: 42
+    prefectureName: "\u5BAE\u5D0E\u770C"
+    prefectureCityID: 1856717
+  - IndexID: 43
+    prefectureName: "\u718A\u672C\u770C"
+    prefectureCityID: 1858421
+  - IndexID: 44
+    prefectureName: "\u4F50\u8CC0\u770C"
+    prefectureCityID: 1853303
+  - IndexID: 45
+    prefectureName: "\u9577\u5D0E\u770C"
+    prefectureCityID: 1856156
+  - IndexID: 46
+    prefectureName: "\u9E7F\u5150\u5CF6\u770C"
+    prefectureCityID: 1860825
+  - IndexID: 47
+    prefectureName: "\u6C96\u7E04\u770C"
+    prefectureCityID: 1894616
